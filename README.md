@@ -3,7 +3,7 @@ HoaComposerWatcher
 
 for use its its simple by default we check the parent repository of the current execution ex:
 
->$ php watcher
+>$ php watcher.php
 
 >$ /var/www/HoaComposerWatcher php watcher.php 
   

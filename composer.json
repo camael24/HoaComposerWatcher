@@ -1,0 +1,8 @@
+{
+    "require"          : {
+        "hoa/file"   : "dev-master",
+        "hoa/console": "dev-master"
+    },
+    "minimum-stability": "dev"
+
+}
